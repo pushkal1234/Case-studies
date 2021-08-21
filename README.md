@@ -1,2 +1,2 @@
-# Data-Camp-Projects
+# Case-Studies-Projects
 Series of Data Science Projects under Data Camp assignment Series.
